@@ -20,3 +20,24 @@
     "Tech": ["HTML", "CSS", "JavaScript", "React JS", "Node JS"]
   }
 ]
+[
+  {
+    "Name": "Shubham Sen Gupta",
+    "Desc": "Electronics and Communication Engineer from SRMIST",
+    "Tech Stacks":"C, C++, Java",
+    "Pics": [
+      "https://user-images.githubusercontent.com/43617730/103359232-8dabb380-4add-11eb-8bfe-916df69c746f.jpg",
+      
+    ],
+    "Contact": {
+      "WhatsApp": "8009804017",
+      "Blog": "https://haspdecrypted-c.blogspot.com/",
+      "LinkedIn": "https://www.linkedin.com/in/shubham-sen-gupta-932297178/",
+      "GitHub": "https://github.com/ssg8288",
+      "Twitter": "https://twitter.com/ShubhamSenGupt5",
+      "Instagram": "https://www.instagram.com/imshubhamsen_08//"
+    },
+    "Project": "https://github.com/ssg8288/Surviellance-Bomb-Diffusion-Robot",
+    "Tech": ["C++", "Arduino" , "Fritzing"]
+  }
+]
